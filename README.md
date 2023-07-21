@@ -29,7 +29,8 @@ the ressult on this example will look like this:
 ![to](https://github.com/StupsKiesel/MyBlenderAddons/assets/43930570/1172ee03-78e0-4da5-918e-200f7e85578e)
 
 
-## Fast Collection Rename
+## Batch material replacer
+
 accesable in Object Context menu
 
 ![menu](https://github.com/StupsKiesel/MyBlenderAddons/assets/43930570/3b9f09ea-0453-4b1d-972c-0c2e6ec6e5f9)
