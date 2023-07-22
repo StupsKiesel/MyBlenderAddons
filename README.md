@@ -83,6 +83,7 @@ because i get allways anoyed when opening blender when the view settings will hi
 This one is an altered version of [ STRG + NMPAD_+ ]. By also holding the "ALT" key. it sellects more but if it enconters an angle change between faces that is bigger then the Threshold it will not sellect the faces.
 
 ![Screenshot_3](https://github.com/StupsKiesel/MyBlenderAddons/assets/43930570/ae53678c-3bec-44c3-a03e-1c61e761846a) ![Screenshot_1](https://github.com/StupsKiesel/MyBlenderAddons/assets/43930570/723f051e-0fbc-4883-809c-be34b736a946) ![Screenshot_2](https://github.com/StupsKiesel/MyBlenderAddons/assets/43930570/2f723cd6-e5c0-492c-9cd9-78df858b0f9d)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4RxTKtAN3WU/0.jpg)](https://www.youtube.com/watch?v=4RxTKtAN3WU)
 
 
 
