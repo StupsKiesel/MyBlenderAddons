@@ -47,6 +47,7 @@ Result for all selected Objects:
 
 ![Screenshot_3](https://github.com/StupsKiesel/MyBlenderAddons/assets/43930570/eaeebc2c-6244-416c-b1a9-19b383fe556b)
 
+
 # copy paste vertex Z
 allows you to copy the Z value from a vertex and paste it to multible vertices
 
@@ -74,9 +75,11 @@ to this:
 
 ![to](https://github.com/StupsKiesel/MyBlenderAddons/assets/43930570/155bf013-d698-40c8-9220-901910c16010)
 
+
 # 3D View Settings
 
 because i get allways anoyed when opening blender when the view settings will hide all the mesh objects. this litle addon changes the settings on every instance you load into blender. you can customize the values in the prefferences panel.
+
 
 # Operator: select_more_alt
 
@@ -86,7 +89,6 @@ This one is an altered version of [ STRG + NMPAD_+ ]. By also holding the "ALT" 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4RxTKtAN3WU/0.jpg)](https://www.youtube.com/watch?v=4RxTKtAN3WU)
 
 
-
 # Extrude and Rotate
 
 give it an angle, axis and how many sections you want. and it will do as the name says.
@@ -94,3 +96,9 @@ give it an angle, axis and how many sections you want. and it will do as the nam
 ![panel](https://github.com/StupsKiesel/MyBlenderAddons/assets/43930570/382e416e-a672-4ab9-af5f-df138daa5783) ![Screenshot_1](https://github.com/StupsKiesel/MyBlenderAddons/assets/43930570/8381a360-82fe-46c3-9fd1-9ef35d516a37) ![Screenshot_2](https://github.com/StupsKiesel/MyBlenderAddons/assets/43930570/b29b078f-f58e-423b-ae83-79d2986a287f)
 
 
+# Visual Bbox
+
+HotKey: STRG + #
+will toggle a visual boundingbox for the active object.
+
+![Screenshot_15](https://github.com/StupsKiesel/MyBlenderAddons/assets/43930570/b96716d7-702b-473f-941c-0e0c9ecf0c10)
