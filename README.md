@@ -74,5 +74,21 @@ to this:
 
 ![to](https://github.com/StupsKiesel/MyBlenderAddons/assets/43930570/155bf013-d698-40c8-9220-901910c16010)
 
+# 3D View Settings
+
+because i get allways anoyed when opening blender when the view settings will hide all the mesh objects. this litle addon changes the settings on every instance you load into blender. you can customize the values in the prefferences panel.
+
+# Operator: select_more_alt
+
+This one is an altered version of [ STRG + NMPAD_+ ]. By also holding the "ALT" key. it sellects more but if it enconters an angle change between faces that is bigger then 45° it will not sellect the faces.
+
+![Screenshot_3](https://github.com/StupsKiesel/MyBlenderAddons/assets/43930570/ae53678c-3bec-44c3-a03e-1c61e761846a) ![Screenshot_1](https://github.com/StupsKiesel/MyBlenderAddons/assets/43930570/723f051e-0fbc-4883-809c-be34b736a946)
+
+
+# Extrude and Rotate
+
+give it an angle, axis and how many sections you want. and it will do as the name says.
+
+![panel](https://github.com/StupsKiesel/MyBlenderAddons/assets/43930570/382e416e-a672-4ab9-af5f-df138daa5783) ![Screenshot_1](https://github.com/StupsKiesel/MyBlenderAddons/assets/43930570/8381a360-82fe-46c3-9fd1-9ef35d516a37) ![Screenshot_2](https://github.com/StupsKiesel/MyBlenderAddons/assets/43930570/b29b078f-f58e-423b-ae83-79d2986a287f)
 
 
