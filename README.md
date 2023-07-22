@@ -82,6 +82,9 @@ because i get allways anoyed when opening blender when the view settings will hi
 
 This one is an altered version of [ STRG + NMPAD_+ ]. By also holding the "ALT" key. it sellects more but if it enconters an angle change between faces that is bigger then 45° it will not sellect the faces.
 
+![Screenshot_3](https://github.com/StupsKiesel/MyBlenderAddons/assets/43930570/ae53678c-3bec-44c3-a03e-1c61e761846a) ![Screenshot_1](https://github.com/StupsKiesel/MyBlenderAddons/assets/43930570/723f051e-0fbc-4883-809c-be34b736a946)
+
+
 # Extrude and Rotate
 
 give it an angle, axis and how many sections you want. and it will do as the name says.
