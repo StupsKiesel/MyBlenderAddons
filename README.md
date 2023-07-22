@@ -74,5 +74,10 @@ to this:
 
 ![to](https://github.com/StupsKiesel/MyBlenderAddons/assets/43930570/155bf013-d698-40c8-9220-901910c16010)
 
+# 3D View Settings
 
+because i get allways anoyed when opening blender when the view settings will hide all the mesh objects. this litle addon changes the settings on every instance you load into blender. you can customize the values in the prefferences panel.
 
+# Operator: select_more_alt
+
+This one is an altered version of [ STRG + NMPAD_+ ]. By also holding the "ALT" key. it sellects more but if it enconters an angle change between faces that is bigger then 45° it will not sellect the faces.
